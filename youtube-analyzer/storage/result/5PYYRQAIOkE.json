@@ -1,0 +1,471 @@
+{
+  "transcription": {
+    "id": "5PYYRQAIOkE",
+    "videoUrl": "https://www.youtube.com/watch?v=5PYYRQAIOkE",
+    "audioFile": "storage/audio/5PYYRQAIOkE.mp3",
+    "screenshot": "storage/thumbnails/5PYYRQAIOkE.jpg",
+    "results": [
+      {
+        "sentences": [
+          {
+            "text": "I'm a wedding planner",
+            "ai_probability": 0.30816935236227416,
+            "startTime": 0.759,
+            "endTime": 2.159,
+            "wordTimestamps": [
+              {
+                "word": "I'm",
+                "start": 0.759,
+                "end": 0.919
+              },
+              {
+                "word": "a",
+                "start": 0.979,
+                "end": 1.039
+              },
+              {
+                "word": "wedding",
+                "start": 1.059,
+                "end": 1.339
+              },
+              {
+                "word": "planner.",
+                "start": 1.399,
+                "end": 2.159
+              }
+            ]
+          },
+          {
+            "text": "My job brings me a lot of pleasure",
+            "ai_probability": 0.23121376809231164,
+            "startTime": 2.22,
+            "endTime": 4.759,
+            "wordTimestamps": [
+              {
+                "word": "My",
+                "start": 2.22,
+                "end": 2.399
+              },
+              {
+                "word": "job",
+                "start": 2.519,
+                "end": 2.779
+              },
+              {
+                "word": "brings",
+                "start": 2.839,
+                "end": 3.079
+              },
+              {
+                "word": "me",
+                "start": 3.139,
+                "end": 3.299
+              },
+              {
+                "word": "a",
+                "start": 3.339,
+                "end": 3.399
+              },
+              {
+                "word": "lot",
+                "start": 3.519,
+                "end": 3.719
+              },
+              {
+                "word": "of",
+                "start": 3.74,
+                "end": 3.879
+              },
+              {
+                "word": "pleasure.",
+                "start": 3.899,
+                "end": 4.759
+              }
+            ]
+          },
+          {
+            "text": "Today is an amazing day",
+            "ai_probability": 0.9712890919540385,
+            "startTime": 4.799,
+            "endTime": 6.819,
+            "wordTimestamps": [
+              {
+                "word": "Today",
+                "start": 4.799,
+                "end": 5.199
+              },
+              {
+                "word": "is",
+                "start": 5.239,
+                "end": 5.319
+              },
+              {
+                "word": "an",
+                "start": 5.339,
+                "end": 5.419
+              },
+              {
+                "word": "amazing",
+                "start": 5.46,
+                "end": 5.98
+              },
+              {
+                "word": "day.",
+                "start": 6.059,
+                "end": 6.819
+              }
+            ]
+          },
+          {
+            "text": "I am planning my sister's wedding",
+            "ai_probability": 0.9781885000856487,
+            "startTime": 6.94,
+            "endTime": 9.159,
+            "wordTimestamps": [
+              {
+                "word": "I",
+                "start": 6.94,
+                "end": 7.019
+              },
+              {
+                "word": "am",
+                "start": 7.019,
+                "end": 7.179
+              },
+              {
+                "word": "planning",
+                "start": 7.199,
+                "end": 7.599
+              },
+              {
+                "word": "my",
+                "start": 7.639,
+                "end": 7.759
+              },
+              {
+                "word": "sister's",
+                "start": 7.879,
+                "end": 8.3
+              },
+              {
+                "word": "wedding.",
+                "start": 8.38,
+                "end": 9.159
+              }
+            ]
+          },
+          {
+            "text": "She will wear a beautiful white dress",
+            "ai_probability": 0.7291202214054273,
+            "startTime": 9.22,
+            "endTime": 11.84,
+            "wordTimestamps": [
+              {
+                "word": "She",
+                "start": 9.22,
+                "end": 9.359
+              },
+              {
+                "word": "will",
+                "start": 9.44,
+                "end": 9.599
+              },
+              {
+                "word": "wear",
+                "start": 9.64,
+                "end": 9.859
+              },
+              {
+                "word": "a",
+                "start": 9.92,
+                "end": 10.02
+              },
+              {
+                "word": "beautiful",
+                "start": 10.06,
+                "end": 10.46
+              },
+              {
+                "word": "white",
+                "start": 10.579,
+                "end": 10.82
+              },
+              {
+                "word": "dress.",
+                "start": 10.9,
+                "end": 11.84
+              }
+            ]
+          },
+          {
+            "text": "I also get to wear a lovely dress",
+            "ai_probability": 0.03701499711231637,
+            "startTime": 11.96,
+            "endTime": 14.539,
+            "wordTimestamps": [
+              {
+                "word": "I",
+                "start": 11.96,
+                "end": 12.039
+              },
+              {
+                "word": "also",
+                "start": 12.139,
+                "end": 12.44
+              },
+              {
+                "word": "get",
+                "start": 12.46,
+                "end": 12.6
+              },
+              {
+                "word": "to",
+                "start": 12.64,
+                "end": 12.76
+              },
+              {
+                "word": "wear",
+                "start": 12.779,
+                "end": 12.979
+              },
+              {
+                "word": "a",
+                "start": 13.059,
+                "end": 13.099
+              },
+              {
+                "word": "lovely",
+                "start": 13.219,
+                "end": 13.52
+              },
+              {
+                "word": "dress.",
+                "start": 13.619,
+                "end": 14.539
+              }
+            ]
+          },
+          {
+            "text": "After the wedding, all the guests will have a nice dinner and will dance for hours",
+            "ai_probability": 0.7355114867385948,
+            "startTime": 14.639,
+            "endTime": 19.819,
+            "wordTimestamps": [
+              {
+                "word": "After",
+                "start": 14.639,
+                "end": 14.899
+              },
+              {
+                "word": "the",
+                "start": 14.92,
+                "end": 15.019
+              },
+              {
+                "word": "wedding,",
+                "start": 15.079,
+                "end": 15.699
+              },
+              {
+                "word": "all",
+                "start": 15.779,
+                "end": 15.96
+              },
+              {
+                "word": "the",
+                "start": 15.979,
+                "end": 16.1
+              },
+              {
+                "word": "guests",
+                "start": 16.139,
+                "end": 16.52
+              },
+              {
+                "word": "will",
+                "start": 16.62,
+                "end": 16.759
+              },
+              {
+                "word": "have",
+                "start": 16.799,
+                "end": 16.979
+              },
+              {
+                "word": "a",
+                "start": 17.02,
+                "end": 17.079
+              },
+              {
+                "word": "nice",
+                "start": 17.139,
+                "end": 17.459
+              },
+              {
+                "word": "dinner",
+                "start": 17.5,
+                "end": 17.879
+              },
+              {
+                "word": "and",
+                "start": 17.92,
+                "end": 18.02
+              },
+              {
+                "word": "will",
+                "start": 18.04,
+                "end": 18.199
+              },
+              {
+                "word": "dance",
+                "start": 18.26,
+                "end": 18.52
+              },
+              {
+                "word": "for",
+                "start": 18.579,
+                "end": 18.679
+              },
+              {
+                "word": "hours.",
+                "start": 18.879,
+                "end": 19.819
+              }
+            ]
+          },
+          {
+            "text": "In the evening, my sister and her new husband will cut a cake that I designed",
+            "ai_probability": 0.11032898588546258,
+            "startTime": 19.879,
+            "endTime": 24.739,
+            "wordTimestamps": [
+              {
+                "word": "In",
+                "start": 19.879,
+                "end": 19.959
+              },
+              {
+                "word": "the",
+                "start": 19.979,
+                "end": 20.139
+              },
+              {
+                "word": "evening,",
+                "start": 20.239,
+                "end": 20.92
+              },
+              {
+                "word": "my",
+                "start": 20.94,
+                "end": 21.119
+              },
+              {
+                "word": "sister",
+                "start": 21.18,
+                "end": 21.579
+              },
+              {
+                "word": "and",
+                "start": 21.6,
+                "end": 21.719
+              },
+              {
+                "word": "her",
+                "start": 21.739,
+                "end": 21.859
+              },
+              {
+                "word": "new",
+                "start": 21.92,
+                "end": 22.059
+              },
+              {
+                "word": "husband",
+                "start": 22.119,
+                "end": 22.6
+              },
+              {
+                "word": "will",
+                "start": 22.62,
+                "end": 22.78
+              },
+              {
+                "word": "cut",
+                "start": 22.8,
+                "end": 22.959
+              },
+              {
+                "word": "a",
+                "start": 22.979,
+                "end": 23.059
+              },
+              {
+                "word": "cake",
+                "start": 23.1,
+                "end": 23.399
+              },
+              {
+                "word": "that",
+                "start": 23.42,
+                "end": 23.539
+              },
+              {
+                "word": "I",
+                "start": 23.619,
+                "end": 23.679
+              },
+              {
+                "word": "designed.",
+                "start": 23.7,
+                "end": 24.739
+              }
+            ]
+          },
+          {
+            "text": "I hope they like it a lot",
+            "ai_probability": 0.5161101572966653,
+            "startTime": 24.939,
+            "endTime": 27.999,
+            "wordTimestamps": [
+              {
+                "word": "I",
+                "start": 24.939,
+                "end": 24.959
+              },
+              {
+                "word": "hope",
+                "start": 25,
+                "end": 25.199
+              },
+              {
+                "word": "they",
+                "start": 25.239,
+                "end": 25.379
+              },
+              {
+                "word": "like",
+                "start": 25.42,
+                "end": 25.6
+              },
+              {
+                "word": "it",
+                "start": 25.639,
+                "end": 25.719
+              },
+              {
+                "word": "a",
+                "start": 25.76,
+                "end": 25.78
+              },
+              {
+                "word": "lot.",
+                "start": 25.879,
+                "end": 27.999
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

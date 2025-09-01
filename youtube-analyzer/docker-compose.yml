@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  youtube-analyzer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      - NODE_ENV=production
+      - ELEVENLABS_API_KEY=${ELEVENLABS_API_KEY}
+      - GPTZERO_API_KEY=${GPTZERO_API_KEY}
+      - PORT=${PORT:-8080}
+    volumes:
+      - ./src:/usr/src/app/src
+      - ./storage:/usr/src/app/storage
