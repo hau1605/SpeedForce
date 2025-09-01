@@ -39,6 +39,56 @@ YouTube Analyzer is a Node.js service that allows users to analyze YouTube video
    npm start
    ```
 
+## API Endpoints
+
+### 1. **POST /analyze**
+Submit a YouTube URL for analysis. This endpoint captures the thumbnail, downloads the audio, transcribes it, and analyzes AI probability for each sentence.
+
+#### Example Request:
+```bash
+curl -X POST http://localhost:8080/analyze \
+-H "Content-Type: application/json" \
+-d '{"url": "https://www.youtube.com/watch?v=example"}'
+```
+
+#### Example Response:
+```json
+{
+  "status": "success",
+  "data": {
+    "thumbnail": "storage/thumbnails/example.jpg",
+    "audio": "storage/audio/example.wav",
+    "transcript": "storage/result/example.json"
+  }
+}
+```
+
+### 2. **GET /results/:id**
+Retrieve the analysis results for a specific video by its ID.
+
+#### Example Request:
+```bash
+curl http://localhost:8080/results/example
+```
+
+#### Example Response:
+```json
+{
+  "status": "success",
+  "data": {
+    "id": "example",
+    "thumbnail": "storage/thumbnails/example.jpg",
+    "audio": "storage/audio/example.wav",
+    "transcript": "storage/result/example.json",
+    "analysis": [
+      {
+        "sentence": "This is a test sentence.",
+        "aiProbability": 0.85
+      }
+    ]
+  }
+}
+```
 
 ## Run with Docker
 
@@ -53,8 +103,7 @@ YouTube Analyzer is a Node.js service that allows users to analyze YouTube video
 The original requirement was: Deploys on a small GCE VM, binding to 0.0.0.0:8080; document the firewall rule and an SSH port-forward fallback.
 
 I could not perform this requirement because I do not have access to a Google Cloud account.
-Instead, I have deployed the application on Render: `https://your-app-name.onrender.com`
-
+Instead, I have deployed the application on Render: `https://speedforce.onrender.com/`
 
 ## Note about GPTZeroService
 
