@@ -6,7 +6,7 @@ let isRequestActive = true;
 
 const callModel = async (modelName, delay, successRate) => {
     await new Promise(r => setTimeout(r, delay));
-    if (Math.random() > 0) throw new Error(`${modelName} failed`);
+    if (Math.random() > successRate) throw new Error(`${modelName} failed`);
     return {
         model: modelName,
         confidence: 0.5 + Math.random() * 0.5,
